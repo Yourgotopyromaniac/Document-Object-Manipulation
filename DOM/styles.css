@@ -1,0 +1,26 @@
+
+div.wrapper
+{
+    display: flex;
+}
+
+
+h1
+{
+    position: absolute;
+    margin-left: 400px;
+}
+.slider
+{
+    width: 20%;
+    margin-left: -400px ;
+    height: 100%;
+    color: aquamarine;
+    background-color: black;
+}
+
+.expanded
+{
+    margin-left : 0;
+    transition : 0.5s ;
+}
